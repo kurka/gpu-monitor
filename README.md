@@ -21,6 +21,7 @@ Edit the following files:
 Next, setup SSH keys between the host server (the server to be monitored) and the website server (the server hosting the website). Follow the instructions here: https://www.redhat.com/sysadmin/passwordless-ssh. Remember not to set a password for the key.
 
 Add the following cron jobs to your user ("crontab -e" then copy the following bit into the file):
+blah
 
 ```
 # Edit full-caps infos below
